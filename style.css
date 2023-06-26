@@ -1,0 +1,128 @@
+body{
+    background-color: white;
+}
+#navMid{
+    display: inline-block;
+    font-size: xx-large;
+}
+h4{
+    display: inline-block;
+    
+}
+.home,.colcn,.about,.shop,.contact{
+    display: inline-block;
+    font-size: xx-large;
+    font-weight: bold;
+    
+}
+.home{
+    position: absolute;
+    top: -30px;
+    left: 220px;
+}
+.colcn{
+    
+    position: absolute;
+    top: -30px;
+    left: 320px; 
+}
+.about{
+    position: absolute;
+    top: -30px;
+    left: 490px; 
+}
+.shop{
+    position: absolute;
+    top: -30px;
+    left: 600px;
+}
+.contact{
+    position: absolute;
+    top: -30px;
+    left: 750px;
+}
+.cart{
+    position: absolute;
+    display: inline-block;
+    top: 20px;
+    right: 30px;
+}
+.user{
+    position: absolute;
+    display: inline-block;
+    top:20px;
+    right: 70px;
+}
+.search{
+    position: absolute;
+    display: inline-block;
+    top: 20px;
+    right: 120px;
+}
+#monstera{
+    position: absolute;
+    font-size: 80px;
+    top: 200px;
+}
+.lo{
+    position: absolute;
+    font-size: 20px;
+    top: 380px;
+}
+.lor{
+    position: absolute;
+    font-size: 20px; 
+    top: 410px;
+}
+.dis{
+    background: #466d50;
+    position: absolute;
+    bottom:130px;
+    left: 140px;
+   font-size: 20px;
+    border-radius: 30px;
+
+}
+#feeding{
+    position: absolute;
+    bottom: 15px;
+    background-color: brown;
+
+}
+.feed{
+    position: absolute;
+
+    bottom: 50px;
+    left: 100px;
+}
+#light{
+    position: absolute;
+    bottom: 30px;
+    background-color: rgb(118, 115, 115);
+    left: 180px;
+}
+.text{
+    position:absolute;
+    bottom: -40px;
+    font-size: 10px;
+}
+#care{
+    position: absolute;
+    bottom: 30px;
+    left: 340px;
+}
+.car{
+    position: absolute;
+    bottom: 50px;
+    left: 410px;
+}
+.lig{
+    position: absolute;
+    bottom: 50px;
+    left: 240px; 
+}
+#imgMain{
+    position: absolute;
+    right: 20px; 
+    bottom: -180px;
+}
